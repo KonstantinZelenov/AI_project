@@ -6,3 +6,12 @@
 body {
     font-family: Montserrat;
 }
+
+header {
+    position: absolute;
+    width: 1840px;
+    height: 788px;
+    top: 0;
+    left: 0;
+    background-color: rgb(15, 59, 126, 0.2) ;
+}
