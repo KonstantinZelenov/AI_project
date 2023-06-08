@@ -18,3 +18,12 @@ header {
     background-size: 1840px 789px;
 }
 
+.top_menu {
+    position: absolute;
+    width: 1840px;
+    height: 85px;
+    top: 0;
+    left: calc(50% - 1840/2);
+    border: 2px solid black;
+}
+
