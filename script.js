@@ -11,4 +11,4 @@ const item = document.querySelector("div");
 function changeColor() {
     item.innerText = "try";
 }
-item.addEventListener("touchstart", changeColor);
+item.addEventListener("touchmove", changeColor);
