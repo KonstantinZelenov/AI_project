@@ -1,6 +1,27 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+.btn {
+    background-color: brown;
+    border: solid 1px red;
+    width: 200px;
+    height: 100px;
+}
+
+.item {
+    background-color: antiquewhite;
+    height: 200px;
+}
+.pink {
+    background-color: pink;
+}
+
+
+  
+
 
 
 
